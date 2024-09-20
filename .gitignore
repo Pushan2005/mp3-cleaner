@@ -1,0 +1,6 @@
+# Ignore all directories (if any)
+*/
+
+# Ignore all mp3 files
+*.mp3
+
